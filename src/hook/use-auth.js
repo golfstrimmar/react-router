@@ -9,3 +9,4 @@ export function useAuth() {
         id
     }
 }
+export default useAuth;

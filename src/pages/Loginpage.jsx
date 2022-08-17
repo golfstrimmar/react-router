@@ -5,7 +5,7 @@ const Loginpage = () => {
   return (
     <>
       <h1>Loginpage</h1>
-      {/* <Login/> */}
+      <Login/>
       <p>
         or <Link to="/register">register here</Link>
       </p>
